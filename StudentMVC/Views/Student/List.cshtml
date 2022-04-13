@@ -1,0 +1,67 @@
+﻿@model IEnumerable<StudentMVC.Models.StudentModel>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AddStudent")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Student_ID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Student_ID)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Address)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Phone)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ID)
+    </td>
+    
+    <td>
+        @Html.ActionLink("Edit", "EditStudent", new { Student_ID = item.Student_ID }) |
+        @Html.ActionLink("Delete", "DeleteStudent", new { Student_ID = item.Student_ID }) |
+
+        @if (item.ID == 0)
+        {
+            @Html.ActionLink("CreateUser", "AddUser", new { Student_ID = item.Student_ID })
+        }
+
+        else
+        {
+            @Html.ActionLink("DeleteUser", "DeleteUser", new { Student_ID = item.Student_ID })
+            @Html.ActionLink("UpdateUser", "EditUser", new { Student_ID = item.Student_ID })
+        }
+    </td>
+</tr>
+}
+</table>

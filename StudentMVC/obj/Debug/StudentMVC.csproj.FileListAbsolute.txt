@@ -1,0 +1,196 @@
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\obj\Debug\StudentMVC.csproj.CoreCompileInputs.cache
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\StudentMVC.dll.config
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\StudentMVC.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\StudentMVC.pdb
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\csc.exe
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\csc.exe.config
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\csc.rsp
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\csi.exe
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\csi.exe.config
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\csi.rsp
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.AppContext.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Console.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\vbc.exe
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\vbc.exe.config
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\vbc.rsp
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\Antlr3.Runtime.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\Newtonsoft.Json.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.Helpers.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.Mvc.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.Optimization.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.Razor.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.WebPages.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\WebGrease.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.Helpers.xml
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.Mvc.xml
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.Optimization.xml
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.Razor.xml
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.WebPages.xml
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\Newtonsoft.Json.xml
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\Antlr3.Runtime.pdb
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\obj\Debug\StudentMVC.csproj.CopyComplete
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\obj\Debug\StudentMVC.dll
+C:\Users\lamic\source\repos\StudentMVC\StudentMVC\obj\Debug\StudentMVC.pdb
+E:\dotnet Projects\StudentMVC\StudentMVC\obj\Debug\StudentMVC.csproj.CoreCompileInputs.cache
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\StudentMVC.dll.config
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\StudentMVC.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\StudentMVC.pdb
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\csc.exe
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\csc.exe.config
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\csc.rsp
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\csi.exe
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\csi.exe.config
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\csi.rsp
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.AppContext.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Console.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.IO.Compression.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Net.Http.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Net.Sockets.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.ValueTuple.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Xml.XPath.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\vbc.exe
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\vbc.exe.config
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\vbc.rsp
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\VBCSCompiler.exe
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Antlr3.Runtime.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Newtonsoft.Json.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.Helpers.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.Mvc.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.Optimization.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.Razor.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.WebPages.Deployment.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.WebPages.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.WebPages.Razor.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\WebGrease.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.Helpers.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.Mvc.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.Optimization.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.Razor.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.WebPages.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.WebPages.Deployment.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Web.WebPages.Razor.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Newtonsoft.Json.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Antlr3.Runtime.pdb
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\obj\Debug\StudentMVC.csproj.CopyComplete
+E:\dotnet Projects\StudentMVC\StudentMVC\obj\Debug\StudentMVC.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\obj\Debug\StudentMVC.pdb
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Identity.Core.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Identity.Stores.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Logging.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Options.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Primitives.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Buffers.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.ComponentModel.Annotations.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Diagnostics.DiagnosticSource.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Memory.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Numerics.Vectors.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Threading.Tasks.Extensions.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.ValueTuple.dll
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Identity.Core.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Identity.Stores.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Logging.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Options.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\Microsoft.Extensions.Primitives.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Buffers.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Diagnostics.DiagnosticSource.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Memory.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Numerics.Vectors.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.Threading.Tasks.Extensions.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\bin\System.ValueTuple.xml
+E:\dotnet Projects\StudentMVC\StudentMVC\obj\Debug\StudentMVC.csproj.AssemblyReference.cache
